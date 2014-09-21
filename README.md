@@ -11,6 +11,7 @@ The project entails obtaining, understanding, cleaning, and transforming data.
   1.  Download and unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip to a directory named “UCI HAR Dataset.”
   2.  Save the run_analysis.R file in the repository to the top level of this directory.
   3.  Set your working directory to ‘UCI HAR Dataset’.
+  4.  Source the run_analysis.R file and type "run_analysis()" to run it.
 
 ## What run_analysis.R Does
   1.  Reads in the training data, training activity ids, training subject ids and binds them to a single dataframe named "traingroup."
